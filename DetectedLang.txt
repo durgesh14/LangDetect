@@ -1,0 +1,176 @@
+Sentence[0]: "Offre de lancement des Jours Sensation : -15% EXTRA* jusqu’à ce soir avec le code ANTI-FROID15 ", Language: fr, Probability: 100.00%
+Sentence[2]: "Aller au contenu principal", Language: fr, Probability: 100.00%
+Sentence[3]: "Femme", Language: da, Probability: 100.00%
+Sentence[4]: "Homme", Language: no, Probability: 13.19%
+Sentence[5]: "Enfant", Language: de, Probability: 85.71%
+Sentence[6]: "Zalando", Language: tl, Probability: 100.00%
+Sentence[7]: "Découvrir", Language: fr, Probability: 100.00%
+Sentence[8]: "zalando plus pill short black large", Language: en, Probability: 71.43%
+Sentence[9]: "Vêtements", Language: fr, Probability: 100.00%
+Sentence[10]: "Chaussures", Language: fr, Probability: 100.00%
+Sentence[11]: "Accessoires", Language: fr, Probability: 100.00%
+Sentence[12]: "Luxe & Créateurs", Language: fr, Probability: 100.00%
+Sentence[13]: "Sport", Language: en, Probability: 85.71%
+Sentence[14]: "Beauté", Language: fr, Probability: 100.00%
+Sentence[15]: "Promos", Language: pt, Probability: 100.00%
+Sentence[16]: "Avancer dans la sélection d’articles", Language: fr, Probability: 100.00%
+Sentence[18]: "Par quoi souhaitez-vous commencer ", Language: fr, Probability: 100.00%
+Sentence[19]: "Femme", Language: da, Probability: 100.00%
+Sentence[20]: "Homme", Language: no, Probability: 13.19%
+Sentence[21]: "Enfant", Language: de, Probability: 85.71%
+Sentence[22]: "Au-delà de vos attentes", Language: ca, Probability: 100.00%
+Sentence[23]: "Mode, beauté, luxe et plus", Language: fr, Probability: 100.00%
+Sentence[24]: "Retourner en arrière dans la sélection d’articles", Language: fr, Probability: 100.00%
+Sentence[25]: "Nos marques de chaussures, vêtements et accessoires", Language: fr, Probability: 100.00%
+Sentence[26]: "Adidas", Language: pt, Probability: 71.43%
+Sentence[27]: "Armani Exchange", Language: de, Probability: 28.57%
+Sentence[28]: "Bench", Language: de, Probability: 71.43%
+Sentence[29]: "Bershka", Language: sq, Probability: 100.00%
+Sentence[30]: "Calvin Klein", Language: de, Probability: 85.71%
+Sentence[31]: "Champion", Language: en, Probability: 100.00%
+Sentence[32]: "Converse", Language: en, Probability: 100.00%
+Sentence[33]: "Dr", Language: de, Probability: 100.00%
+Sentence[34]: "Martens", Language: de, Probability: 90.69%
+Sentence[35]: "Ecco", Language: it, Probability: 100.00%
+Sentence[36]: "Esprit", Language: es, Probability: 100.00%
+Sentence[37]: "Hugo Boss", Language: pt, Probability: 14.29%
+Sentence[38]: "Jack Wolfskin", Language: sv, Probability: 28.57%
+Sentence[39]: "Jott", Language: fi, Probability: 100.00%
+Sentence[40]: "Kangol", Language: tl, Probability: 100.00%
+Sentence[41]: "Kaporal", Language: tl, Probability: 14.29%
+Sentence[42]: "Lacoste", Language: es, Probability: 100.00%
+Sentence[43]: "Levi's", Language: sl, Probability: 100.00%
+Sentence[44]: "Mango", Language: tl, Probability: 100.00%
+Sentence[45]: "Minimum", Language: sw, Probability: 100.00%
+Sentence[46]: "New Balance", Language: en, Probability: 100.00%
+Sentence[47]: "Nike", Language: af, Probability: 100.00%
+Sentence[48]: "O'Neill", Language: de, Probability: 57.14%
+Sentence[49]: "Oysho", Language: en, Probability: 14.29%
+Sentence[50]: "Project X Paris", Language: lt, Probability: 28.57%
+Sentence[51]: "PULL&BEAR", Language: ca, Probability: 100.00%
+Sentence[52]: "Puma", Language: pt, Probability: 14.29%
+Sentence[53]: "Ralph Lauren", Language: de, Probability: 14.29%
+Sentence[54]: "Reebok", Language: af, Probability: 100.00%
+Sentence[55]: "The North Face", Language: en, Probability: 100.00%
+Sentence[56]: "Timberland", Language: id, Probability: 100.00%
+Sentence[57]: "Tommy Hilfiger", Language: no, Probability: 21.68%
+Sentence[58]: "Vans", Language: nl, Probability: 85.66%
+Sentence[59]: "Veja", Language: sl, Probability: 100.00%
+Sentence[60]: "Wrangler", Language: de, Probability: 14.29%
+Sentence[61]: "Chaussures, vêtements et accessoires : plus de catégories", Language: fr, Probability: 100.00%
+Sentence[62]: "Accessoires", Language: fr, Probability: 100.00%
+Sentence[63]: "Baskets", Language: no, Probability: 100.00%
+Sentence[64]: "Blazers", Language: de, Probability: 85.71%
+Sentence[65]: "Bombers", Language: sv, Probability: 100.00%
+Sentence[66]: "Bonnets", Language: no, Probability: 100.00%
+Sentence[67]: "Bonnets", Language: no, Probability: 100.00%
+Sentence[68]: "Bottes", Language: it, Probability: 100.00%
+Sentence[69]: "Cardigans", Language: sv, Probability: 42.86%
+Sentence[70]: "Casquettes", Language: fr, Probability: 100.00%
+Sentence[71]: "Ceintures", Language: fr, Probability: 46.51%
+Sentence[72]: "Chapeaux", Language: fr, Probability: 100.00%
+Sentence[73]: "Chaussures", Language: fr, Probability: 100.00%
+Sentence[74]: "Chaussures pas cher", Language: fr, Probability: 100.00%
+Sentence[75]: "Chemises", Language: et, Probability: 100.00%
+Sentence[76]: "Doudounes", Language: fr, Probability: 100.00%
+Sentence[77]: "Gants", Language: ca, Probability: 100.00%
+Sentence[78]: "Jeans", Language: fr, Probability: 100.00%
+Sentence[79]: "Joggings", Language: tl, Probability: 100.00%
+Sentence[80]: "Manteaux", Language: fr, Probability: 100.00%
+Sentence[81]: "Pantalons", Language: tl, Probability: 100.00%
+Sentence[82]: "Pantoufles", Language: fr, Probability: 100.00%
+Sentence[83]: "Parkas", Language: id, Probability: 100.00%
+Sentence[84]: "Perfectos", Language: es, Probability: 100.00%
+Sentence[85]: "Polaires", Language: fr, Probability: 100.00%
+Sentence[86]: "Portefeuilles", Language: fr, Probability: 100.00%
+Sentence[87]: "Pulls", Language: fi, Probability: 14.29%
+Sentence[88]: "Pyjamas", Language: lt, Probability: 100.00%
+Sentence[89]: "Sacs", Language: ca, Probability: 100.00%
+Sentence[90]: "Sacs bananes", Language: tl, Probability: 71.43%
+Sentence[91]: "Sacs de voyage", Language: ca, Probability: 71.43%
+Sentence[92]: "Sacs-à-dos", Language: pt, Probability: 42.86%
+Sentence[93]: "Sweatshirts", Language: en, Probability: 100.00%
+Sentence[94]: "Trenchs", Language: de, Probability: 100.00%
+Sentence[95]: "Vestes", Language: de, Probability: 97.28%
+Sentence[96]: "Vestes sans manches", Language: fr, Probability: 100.00%
+Sentence[97]: "Votre boîte mail", Language: ro, Probability: 100.00%
+Sentence[98]: "Remplie de style", Language: af, Probability: 14.29%
+Sentence[99]: "Inscrivez-vous à la newsletter de zalando", Language: it, Probability: 14.29%
+Sentence[100]: "fr", Language: da, Probability: 100.00%
+Sentence[101]: "Votre adresse e-mail", Language: pt, Probability: 57.14%
+Sentence[103]: "Configurez vos préférences", Language: fr, Probability: 100.00%
+Sentence[105]: "Que souhaitez-vous voir ", Language: fr, Probability: 100.00%
+Sentence[106]: "Mode pour femme", Language: fr, Probability: 100.00%
+Sentence[107]: "Mode pour homme", Language: fr, Probability: 100.00%
+Sentence[108]: "Contenu", Language: it, Probability: 100.00%
+Sentence[109]: "Inscrivez-moi", Language: ro, Probability: 100.00%
+Sentence[111]: "Merci de vous référer à notre politique de protection des données pour savoir comment Zalando traite vos données", Language: fr, Probability: 100.00%
+Sentence[112]: "Vous pouvez vous désinscrire gratuitement et à tout moment", Language: fr, Probability: 100.00%
+Sentence[113]: "La plus grande sélection mode et tendance en Europe", Language: fr, Probability: 100.00%
+Sentence[114]: "Découvrez plus de 2000 marques mode et beauté et profitez d’une livraison rapide ainsi que des retours gratuits", Language: fr, Probability: 100.00%
+Sentence[115]: "help", Language: nl, Probability: 100.00%
+Sentence[116]: "Aide & Contact", Language: es, Probability: 100.00%
+Sentence[117]: "Questions fréquentes", Language: fr, Probability: 100.00%
+Sentence[118]: "Essayez d'abord, payez après", Language: fr, Probability: 14.29%
+Sentence[119]: "Livraison 24h en point retrait", Language: fr, Probability: 100.00%
+Sentence[120]: "Retour depuis votre boîte aux lettres", Language: fr, Probability: 100.00%
+Sentence[121]: "Suivre mon colis", Language: fr, Probability: 100.00%
+Sentence[122]: "Moyens de paiement", Language: fr, Probability: 100.00%
+Sentence[123]: "Guides des tailles", Language: fr, Probability: 100.00%
+Sentence[124]: "Retour & remboursement", Language: fr, Probability: 100.00%
+Sentence[125]: "S'inscrire à la newsletter", Language: it, Probability: 14.29%
+Sentence[126]: "L'application Zalando", Language: it, Probability: 100.00%
+Sentence[127]: "gift_card", Language: cy, Probability: 100.00%
+Sentence[128]: "Chèques cadeaux", Language: fr, Probability: 100.00%
+Sentence[129]: "Offrir une carte cadeau", Language: ro, Probability: 100.00%
+Sentence[130]: "Utiliser une carte cadeau", Language: fr, Probability: 42.86%
+Sentence[131]: "Chèques cadeaux d'entreprise", Language: fr, Probability: 100.00%
+Sentence[132]: "zalando_logo_outlined", Language: pt, Probability: 57.14%
+Sentence[133]: "Zalando", Language: tl, Probability: 100.00%
+Sentence[134]: "Corporate Website", Language: en, Probability: 100.00%
+Sentence[135]: "Emplois", Language: pt, Probability: 85.71%
+Sentence[136]: "Presse", Language: de, Probability: 42.86%
+Sentence[137]: "Questions marketing", Language: en, Probability: 71.43%
+Sentence[138]: "Lexique de la mode", Language: fr, Probability: 100.00%
+Sentence[139]: "Privé by Zalando", Language: cs, Probability: 100.00%
+Sentence[140]: "truck", Language: vi, Probability: 100.00%
+Sentence[141]: "Modes de livraison", Language: fr, Probability: 100.00%
+Sentence[142]: "colissimo", Language: it, Probability: 100.00%
+Sentence[143]: "chronopost", Language: cs, Probability: 57.14%
+Sentence[144]: "credit_card", Language: ro, Probability: 100.00%
+Sentence[145]: "Moyens de paiement", Language: fr, Probability: 100.00%
+Sentence[146]: "mastercard", Language: pt, Probability: 100.00%
+Sentence[147]: "visa", Language: lv, Probability: 100.00%
+Sentence[148]: "paypal", Language: tl, Probability: 100.00%
+Sentence[149]: "amex", Language: ca, Probability: 100.00%
+Sentence[150]: "shopping_bag_full", Language: tl, Probability: 85.71%
+Sentence[151]: "Shopping en ligne facile", Language: no, Probability: 85.71%
+Sentence[152]: "Découvrez Zalando Plus", Language: fr, Probability: 100.00%
+Sentence[153]: "Essayez d'abord, payez après", Language: fr, Probability: 14.29%
+Sentence[154]: "Livraison offerte pour les commandes de plus de 34€*", Language: fr, Probability: 100.00%
+Sentence[155]: "Satisfait ou remboursé sous 100 jours", Language: fr, Probability: 100.00%
+Sentence[156]: "zalando_logo_outlined", Language: pt, Probability: 57.14%
+Sentence[157]: "Nos services", Language: en, Probability: 14.29%
+Sentence[158]: "Programme partenaire", Language: fr, Probability: 100.00%
+Sentence[159]: "Connected Retail", Language: en, Probability: 100.00%
+Sentence[160]: "Zalando Marketing Services", Language: en, Probability: 71.43%
+Sentence[161]: "En savoir plus", Language: fr, Probability: 100.00%
+Sentence[162]: "zalando_logo_outlined", Language: pt, Probability: 57.14%
+Sentence[163]: "Qualité de service certifiée", Language: fr, Probability: 100.00%
+Sentence[164]: "Fevad", Language: sl, Probability: 40.98%
+Sentence[165]: "Résilier mon abonnement Plus", Language: fr, Probability: 100.00%
+Sentence[166]: "Mentions légales", Language: fr, Probability: 100.00%
+Sentence[167]: "*Conditions des offres", Language: en, Probability: 57.14%
+Sentence[168]: "Protection des données", Language: fr, Probability: 100.00%
+Sentence[169]: "Paramètres des données", Language: fr, Probability: 100.00%
+Sentence[170]: "CGV", Language: en, Probability: 100.00%
+Sentence[171]: "Applications Zalando:", Language: en, Probability: 100.00%
+Sentence[172]: "appstore fr", Language: sv, Probability: 14.29%
+Sentence[173]: "playstore fr", Language: en, Probability: 100.00%
+Sentence[174]: "Plus d’inspiration", Language: fr, Probability: 100.00%
+Sentence[175]: "twitter", Language: en, Probability: 100.00%
+Sentence[176]: "facebook", Language: en, Probability: 100.00%
+Sentence[177]: "pinterest", Language: no, Probability: 58.03%
+Sentence[178]: "instagram", Language: sv, Probability: 100.00%
+Sentence[179]: "RETOUR EN HAUT", Language: de, Probability: 100.00%
+Sentence[180]: "arrow_up", Language: en, Probability: 100.00%

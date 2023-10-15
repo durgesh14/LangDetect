@@ -1,0 +1,181 @@
+Sentence[0]: Offre de lancement des Jours Sensation : -15% EXTRA* jusqu’à ce soir avec le code ANTI-FROID15 
+Sentence[1]: 
+Sentence[2]: Aller au contenu principal
+Sentence[3]: Femme
+Sentence[4]: Homme
+Sentence[5]: Enfant
+Sentence[6]: Zalando
+Sentence[7]: Découvrir
+Sentence[8]: zalando plus pill short black large
+Sentence[9]: Vêtements
+Sentence[10]: Chaussures
+Sentence[11]: Accessoires
+Sentence[12]: Luxe & Créateurs
+Sentence[13]: Sport
+Sentence[14]: Beauté
+Sentence[15]: Promos
+Sentence[16]: Avancer dans la sélection d’articles
+Sentence[17]: 
+Sentence[18]: Par quoi souhaitez-vous commencer 
+Sentence[19]: Femme
+Sentence[20]: Homme
+Sentence[21]: Enfant
+Sentence[22]: Au-delà de vos attentes
+Sentence[23]: Mode, beauté, luxe et plus
+Sentence[24]: Retourner en arrière dans la sélection d’articles
+Sentence[25]: Nos marques de chaussures, vêtements et accessoires
+Sentence[26]: Adidas
+Sentence[27]: Armani Exchange
+Sentence[28]: Bench
+Sentence[29]: Bershka
+Sentence[30]: Calvin Klein
+Sentence[31]: Champion
+Sentence[32]: Converse
+Sentence[33]: Dr
+Sentence[34]: Martens
+Sentence[35]: Ecco
+Sentence[36]: Esprit
+Sentence[37]: Hugo Boss
+Sentence[38]: Jack Wolfskin
+Sentence[39]: Jott
+Sentence[40]: Kangol
+Sentence[41]: Kaporal
+Sentence[42]: Lacoste
+Sentence[43]: Levi's
+Sentence[44]: Mango
+Sentence[45]: Minimum
+Sentence[46]: New Balance
+Sentence[47]: Nike
+Sentence[48]: O'Neill
+Sentence[49]: Oysho
+Sentence[50]: Project X Paris
+Sentence[51]: PULL&BEAR
+Sentence[52]: Puma
+Sentence[53]: Ralph Lauren
+Sentence[54]: Reebok
+Sentence[55]: The North Face
+Sentence[56]: Timberland
+Sentence[57]: Tommy Hilfiger
+Sentence[58]: Vans
+Sentence[59]: Veja
+Sentence[60]: Wrangler
+Sentence[61]: Chaussures, vêtements et accessoires : plus de catégories
+Sentence[62]: Accessoires
+Sentence[63]: Baskets
+Sentence[64]: Blazers
+Sentence[65]: Bombers
+Sentence[66]: Bonnets
+Sentence[67]: Bonnets
+Sentence[68]: Bottes
+Sentence[69]: Cardigans
+Sentence[70]: Casquettes
+Sentence[71]: Ceintures
+Sentence[72]: Chapeaux
+Sentence[73]: Chaussures
+Sentence[74]: Chaussures pas cher
+Sentence[75]: Chemises
+Sentence[76]: Doudounes
+Sentence[77]: Gants
+Sentence[78]: Jeans
+Sentence[79]: Joggings
+Sentence[80]: Manteaux
+Sentence[81]: Pantalons
+Sentence[82]: Pantoufles
+Sentence[83]: Parkas
+Sentence[84]: Perfectos
+Sentence[85]: Polaires
+Sentence[86]: Portefeuilles
+Sentence[87]: Pulls
+Sentence[88]: Pyjamas
+Sentence[89]: Sacs
+Sentence[90]: Sacs bananes
+Sentence[91]: Sacs de voyage
+Sentence[92]: Sacs-à-dos
+Sentence[93]: Sweatshirts
+Sentence[94]: Trenchs
+Sentence[95]: Vestes
+Sentence[96]: Vestes sans manches
+Sentence[97]: Votre boîte mail
+Sentence[98]: Remplie de style
+Sentence[99]: Inscrivez-vous à la newsletter de zalando
+Sentence[100]: fr
+Sentence[101]: Votre adresse e-mail
+Sentence[102]: 
+Sentence[103]: Configurez vos préférences
+Sentence[104]: 
+Sentence[105]: Que souhaitez-vous voir 
+Sentence[106]: Mode pour femme
+Sentence[107]: Mode pour homme
+Sentence[108]: Contenu
+Sentence[109]: Inscrivez-moi
+Sentence[110]: 
+Sentence[111]: Merci de vous référer à notre politique de protection des données pour savoir comment Zalando traite vos données
+Sentence[112]: Vous pouvez vous désinscrire gratuitement et à tout moment
+Sentence[113]: La plus grande sélection mode et tendance en Europe
+Sentence[114]: Découvrez plus de 2000 marques mode et beauté et profitez d’une livraison rapide ainsi que des retours gratuits
+Sentence[115]: help
+Sentence[116]: Aide & Contact
+Sentence[117]: Questions fréquentes
+Sentence[118]: Essayez d'abord, payez après
+Sentence[119]: Livraison 24h en point retrait
+Sentence[120]: Retour depuis votre boîte aux lettres
+Sentence[121]: Suivre mon colis
+Sentence[122]: Moyens de paiement
+Sentence[123]: Guides des tailles
+Sentence[124]: Retour & remboursement
+Sentence[125]: S'inscrire à la newsletter
+Sentence[126]: L'application Zalando
+Sentence[127]: gift_card
+Sentence[128]: Chèques cadeaux
+Sentence[129]: Offrir une carte cadeau
+Sentence[130]: Utiliser une carte cadeau
+Sentence[131]: Chèques cadeaux d'entreprise
+Sentence[132]: zalando_logo_outlined
+Sentence[133]: Zalando
+Sentence[134]: Corporate Website
+Sentence[135]: Emplois
+Sentence[136]: Presse
+Sentence[137]: Questions marketing
+Sentence[138]: Lexique de la mode
+Sentence[139]: Privé by Zalando
+Sentence[140]: truck
+Sentence[141]: Modes de livraison
+Sentence[142]: colissimo
+Sentence[143]: chronopost
+Sentence[144]: credit_card
+Sentence[145]: Moyens de paiement
+Sentence[146]: mastercard
+Sentence[147]: visa
+Sentence[148]: paypal
+Sentence[149]: amex
+Sentence[150]: shopping_bag_full
+Sentence[151]: Shopping en ligne facile
+Sentence[152]: Découvrez Zalando Plus
+Sentence[153]: Essayez d'abord, payez après
+Sentence[154]: Livraison offerte pour les commandes de plus de 34€*
+Sentence[155]: Satisfait ou remboursé sous 100 jours
+Sentence[156]: zalando_logo_outlined
+Sentence[157]: Nos services
+Sentence[158]: Programme partenaire
+Sentence[159]: Connected Retail
+Sentence[160]: Zalando Marketing Services
+Sentence[161]: En savoir plus
+Sentence[162]: zalando_logo_outlined
+Sentence[163]: Qualité de service certifiée
+Sentence[164]: Fevad
+Sentence[165]: Résilier mon abonnement Plus
+Sentence[166]: Mentions légales
+Sentence[167]: *Conditions des offres
+Sentence[168]: Protection des données
+Sentence[169]: Paramètres des données
+Sentence[170]: CGV
+Sentence[171]: Applications Zalando:
+Sentence[172]: appstore fr
+Sentence[173]: playstore fr
+Sentence[174]: Plus d’inspiration
+Sentence[175]: twitter
+Sentence[176]: facebook
+Sentence[177]: pinterest
+Sentence[178]: instagram
+Sentence[179]: RETOUR EN HAUT
+Sentence[180]: arrow_up
